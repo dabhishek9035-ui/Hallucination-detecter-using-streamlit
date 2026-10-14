@@ -16,7 +16,7 @@ A Streamlit-based AI tool that detects hallucinations in LLM outputs by verifyin
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/dabhishek9035-ui/Hallucination-detecter-using-streamlit
 cd streamlit
 python -m venv venv
 venv\Scripts\activate
